@@ -16,7 +16,6 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🪙 Cryto,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Crypto.list
 ruleset=🐟 特殊其他,https://raw.githubusercontent.com/ko00wu/ClashCustomRule/master/SpecialOther.list
-ruleset=🐳 Deepseek,https://raw.githubusercontent.com/ko00wu/ClashCustomRule/master/deepseek.list
 ruleset=🏦 DEX,https://raw.githubusercontent.com/ko00wu/ClashCustomRule/master/DEX.list
 ruleset=🏬 广告运营商,https://raw.githubusercontent.com/ko00wu/ClashCustomRule/master/AccessAd.list
 ruleset=📦 Amazon,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Amazon.list
